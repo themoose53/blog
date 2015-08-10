@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://themoose53.github.io/blog/sitemap.xml 
