@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://themoose53.github.io/blog/atom.xml" rel="self"/>
   <link href="http://themoose53.github.io/blog/"/>
-  <updated>2015-08-10T16:16:14-05:00</updated>
+  <updated>2015-08-17T11:14:24-05:00</updated>
   <id>http://themoose53.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,154 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[8/16/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/08/16/8-slash-16-slash-15/"/>
+    <updated>2015-08-16T12:35:21-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/08/16/8-slash-16-slash-15</id>
+    <content type="html"><![CDATA[<h1>Interviews</h1>
+
+<p>It is a good idea to practice interviews as they are an important step to getting a job. I recently did a mock interview and found that I was unprepared for certain situations or questions. practice makes perfect, and practice can help you avoid mistakes in future interviews.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[8/3/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/08/03/8-slash-03-slash-15/"/>
+    <updated>2015-08-03T10:54:51-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/08/03/8-slash-03-slash-15</id>
+    <content type="html"><![CDATA[<h2>Three basic things you need for a webpage</h2>
+
+<p>In order to have a decent webpage, you&rsquo;ll need to include three things. These things are HTML, CSS, and JavaScript.</p>
+
+<h2>HTML</h2>
+
+<p>Html is the foundation of your webpage. It includes all of the content in your page.</p>
+
+<h2>CSS</h2>
+
+<p>CSS is just as important as HTML. CSS will make your webpages look good. It also determines the position of elements.</p>
+
+<h2>JavaScript</h2>
+
+<p>JavaScript is what makes your webpage more interactive. You can use JavaScript to load parts of your page without reloading the entire page (Ajax).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7/24/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/07/24/7-slash-24-slash-15/"/>
+    <updated>2015-07-24T10:54:02-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/07/24/7-slash-24-slash-15</id>
+    <content type="html"><![CDATA[<h1>Pay attention to detail!</h1>
+
+<p>Here&rsquo;s a reminder to pay attention to detail while coding. I ran into a problem while coding and it took me hours to figure out that the problem was that I forgot to insert a comma. Don&rsquo;t let this mistake happen to you! Re-read your work slowly and carefully. Sometimes your problem is actually way simpler than you thought.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7/19/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/07/19/7-slash-19-slash-15/"/>
+    <updated>2015-07-19T10:53:00-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/07/19/7-slash-19-slash-15</id>
+    <content type="html"><![CDATA[<h1>Field Trip!</h1>
+
+<p>Hey guys! This week I took a visit to <a href="http://drifty.com/">Drifty</a>, a tech company that created Ionic, a software developer kit for mobile apps with web applications. Their office had a pretty cool and relaxing feeling as they showed us Ionic and Firebase, a realtime database which provides an API for developers and clients.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7/13/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/07/13/7-slash-13-slash-15/"/>
+    <updated>2015-07-13T10:55:29-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/07/13/7-slash-13-slash-15</id>
+    <content type="html"><![CDATA[<h1>Hey all,</h1>
+
+<p>I&rsquo;ve just been at Madison + UX. It&rsquo;s a great conference for people who are interested in user design to meet and talk about it. There were a lot of speakers who talked about a whole range of things. There were also booths for companies that you could visit to learn more information about. You also can&rsquo;t forget about all of the swags!</p>
+
+<p>Madison + UX lasts for two days, each having an after-party. This was my first, and last time I&rsquo;ll be at Madison + UX as it won&rsquo;t be hosted at all anymore. That&rsquo;s unfortunate as I really enjoyed it and I hope something similar pops up.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[7/3/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/07/03/7-slash-03-slash-15/"/>
+    <updated>2015-07-03T09:01:58-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/07/03/7-slash-03-slash-15</id>
+    <content type="html"><![CDATA[<h1>An Excellent Book</h1>
+
+<p>Eloquent JavaScript is a great book for learning JavaScript. It has helped me greatly and the best part is it&rsquo;s free online!</p>
+
+<p>Here is a link to the website:
+<a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[6/26/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/06/26/6-slash-26-slash-19/"/>
+    <updated>2015-06-26T09:20:32-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/06/26/6-slash-26-slash-19</id>
+    <content type="html"><![CDATA[<h1>Hello again!</h1>
+
+<p>This week I&rsquo;ve learned about JavaScript!</p>
+
+<p>It turns out JavaScript isn&rsquo;t related to Java, but I learned about expressions, statements, operators, values, strings, booleans, variables, and special numbers.</p>
+
+<h2>Expressions</h2>
+
+<p>code that produces a value is an expression. An example of this is:
+<code>22</code></p>
+
+<h2>Statements</h2>
+
+<p>A statement can be one or more expressions. An expression is also a statement.</p>
+
+<h2>Operators</h2>
+
+<p>There are different kinds of operators. There are logical operators, binary operators, and unary operators. Logical operators are the &ldquo;and&rdquo; &ldquo;or&rdquo;, and &ldquo;not&rdquo; operators. These can be used for booleans.</p>
+
+<p>The &ldquo;and&rdquo; operator is written as <code>&amp;&amp;</code>. Its result is true only if both values given to it are true. Example:
+<code>console.log (true &amp;&amp; false)</code>
+This will return as false.</p>
+
+<p>The &ldquo;or&rdquo; operator is written as <code>||</code>. Its result is true if at least one of its values given to it are true. Example:
+<code>console.log(false || true)</code>
+This will return as true.</p>
+
+<p>The &ldquo;not&rdquo; operator is written as <code>!</code>. This operator returns the opposite of the value given to it. This operator can be used in conjuction with comparison operators (&lt;, >, =, ) Example:
+<code>!false</code>
+This will return as true.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[6/19/15]]></title>
+    <link href="http://themoose53.github.io/blog/blog/2015/06/19/6-slash-19-slash-15/"/>
+    <updated>2015-06-19T08:44:32-05:00</updated>
+    <id>http://themoose53.github.io/blog/blog/2015/06/19/6-slash-19-slash-15</id>
+    <content type="html"><![CDATA[<h1>Hello reader</h1>
+
+<p>Welcome to my blog!
+In this blog I&rsquo;ll review what I have learned about programming.</p>
+
+<p>Recently I&rsquo;ve learned about how to use the command line.</p>
+
+<h2>Commands</h2>
+
+<p>The &lsquo;pwd&rsquo; command stands for &lsquo;print working directory&rsquo;. This command will print the current directory you&rsquo;re in on the command window.</p>
+
+<p>The &lsquo;hostname&rsquo; command prints out the computer&rsquo;s network name.</p>
+
+<p>The &lsquo;mkdir&rsquo; command is short for &lsquo;make directory&rsquo;. This command creates a new directory. An argument is added which will be the name of the new directory.</p>
+
+<p>The &lsquo;cd&rsquo; command stands for &lsquo;change directory&rsquo;. This command will change what directory you want to go into. An argument is added which will be the name of the directory you want to go into.</p>
+
+<p>The &lsquo;ls&rsquo; command is short for &lsquo;list&rsquo;. This command lists all of the files and folders in the current directory. The &lsquo;-a&rsquo; option can be added to show hidden files as well.</p>
+
+<p>Well that&rsquo;s all for now. These are only a handful of commands. There are many more commands out there.</p>
+]]></content>
+  </entry>
   
 </feed>
