@@ -1,0 +1,13 @@
+---
+layout: post
+title: "7/3/15"
+date: 2015-07-03 9:01:58 -0500
+comments: true
+categories: 
+---
+#An Excellent Book
+
+Eloquent JavaScript is a great book for learning JavaScript. It has helped me greatly and the best part is it's free online!
+
+Here is a link to the website:
+[Eloquent JavaScript](http://eloquentjavascript.net/)

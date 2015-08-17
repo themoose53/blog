@@ -1,0 +1,10 @@
+---
+layout: post
+title: "7/19/15"
+date: 2015-07-19 10:53:00 -0500
+comments: true
+categories: 
+---
+#Field Trip!
+
+Hey guys! This week I took a visit to [Drifty](http://drifty.com/), a tech company that created Ionic, a software developer kit for mobile apps with web applications. Their office had a pretty cool and relaxing feeling as they showed us Ionic and Firebase, a realtime database which provides an API for developers and clients.

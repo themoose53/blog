@@ -1,0 +1,22 @@
+---
+layout: post
+title: "8/3/15"
+date: 2015-08-3 10:54:51 -0500
+comments: true
+categories: 
+---
+##Three basic things you need for a webpage
+
+In order to have a decent webpage, you'll need to include three things. These things are HTML, CSS, and JavaScript.
+
+##HTML
+
+Html is the foundation of your webpage. It includes all of the content in your page.
+
+##CSS
+
+CSS is just as important as HTML. CSS will make your webpages look good. It also determines the position of elements.
+
+##JavaScript
+
+JavaScript is what makes your webpage more interactive. You can use JavaScript to load parts of your page without reloading the entire page (Ajax).
